@@ -1,0 +1,74 @@
+body
+{
+	font-family: "Yellowtail";
+	font-style: normal;
+	color: #FFFFFF
+}
+body
+{
+	background-image: url("exca.jpg");
+}
+.forma
+{
+	text-align: center;
+	color: #0DFF00;
+	margin-left: 50px;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+.link
+{
+	text-align: right;
+}
+@font-face 
+{
+		font-family: "Yellowtail-Regular", Pacifico, hestina , cursive ;
+		src: url("/fonts/Yellowtail-Regular")format("ttf"),
+			 url("/fonts/yellowtail-regular-webfont")format("ttf"),
+			 url("fonts/yellowtail-regular-webfont.woff")format("woff"),
+			 url("/fonts/yellowtail-regular-webfont.woff2")format("woff2"),
+			 url("/fonts/Pacifico-Regular")format("ttf");
+}
+
+h1
+{
+	font-family: 'Yellowtail', hestina;
+	text-align: right;
+	color: #22BE0D;
+	font-size: 100px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.titreforma
+{
+	text-align: center;
+	color:  #22BE0D;
+}
+
+a:visited
+{
+	color: purple;
+}
+
+a:hover
+{
+	color: green;
+}
+.copyright
+{
+	text-align: center;
+}
+#nav
+{
+	list-style-type: none;
+	font-size: 35px;
+}
+.link
+{
+	float: right;
+}
+.descrip
+{
+	font-size: 100px;
+}
