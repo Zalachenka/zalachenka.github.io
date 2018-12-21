@@ -23,7 +23,6 @@
             </div>
     	<p class="descrip">Porteur de l'épée de légende et petit-ami de Zelda à en devenir</p><br>
 
-    	<img class="link" src="linkblack.png"alt="Link">
              <div id="main">
     	<h2 class="titreforma">Ma formation</h2>
 
