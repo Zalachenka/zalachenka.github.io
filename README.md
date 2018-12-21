@@ -37,7 +37,7 @@ Dans Breath of the Wild, dans un des souvenirs de Link, Zelda révèle que le p�
     		<ul>	
     			<li>1990 - 1997 : Apprentissage de l'art du combat singulier à l'épée et au boulier</li><br>
     			<li>1997 - 1999 : Apprentissage du maniement du grappin</li><br>
-    			<li>1999 - Aujourd'hui : Apprentissage de l'art de la sagesse et de la bonté auprès de la <a href="https://fr.wikipedia.org/wiki/Princesse_Zelda"target="_blank">Princesse Zelda</a></li><br></ul>
+    			<li>1999 - Aujourd'hui : Apprentissage de l'art de la sagesse et de la bonté auprès de la Princesse Zelda</a></li><br></ul>
     		</p>
     	<h2>Mes compétences</h2>
     		<p>
