@@ -1,2 +1,1 @@
-var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
+setTimeout(function(){ alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please"); }, 10000);
