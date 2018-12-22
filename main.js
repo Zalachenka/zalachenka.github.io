@@ -1,1 +1,6 @@
-setTimeout(function(){ alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please"); }, 10000);
+window.confirm("Wanna get laid ?");
+if (confirm("Press a button!")) {
+  window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+} else {
+  txt = "Smart move!";
+}
