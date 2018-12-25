@@ -4,9 +4,7 @@ window.confirm("Wanna get laid ?");
    } else {
    txt = "Smart move!";
 }
-var color = ["#FF00FF"];
-var i = 0;
-document.querySelector("button").addEventListener("click", function(){
-	console.log(color());
-	i = i < color.length ? ++i : 0;
-	document.querySelector("body").style.background = color[i]});
+
+function chBackcolor(color) {
+   document.body.style.background = color;
+}
