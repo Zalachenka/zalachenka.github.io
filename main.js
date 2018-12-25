@@ -4,7 +4,3 @@ window.confirm("Wanna get laid ?");
    } else {
    txt = "Smart move!";
 }
-
-function chBackcolor(color) {
-   document.body.style.background = color;
-}
