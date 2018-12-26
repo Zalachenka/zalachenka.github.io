@@ -4,15 +4,7 @@ window.confirm("Wanna get laid ?");
    } else {
    txt = "Smart move!";
 };
-document.getElementById("Psych").click() = chBackgroundColor ;
-
-    function changeColor() {
-        document.body.style.BackgroundColor = "magenta";
-        return false;
-    }
-var el = document.getElementById("Psych");
-if (el.addEventListener)
-    el.addEventListener("click", doFunction, false);
-else if (el.attachEvent)
-    el.attachEvent('onclick', doFunction);
+ function chBackcolor(color) {
+   document.body.style.background = color;
+}
 
