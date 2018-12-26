@@ -6,5 +6,8 @@ window.confirm("Wanna get laid ?");
 };
  function chBackcolor(color) {
    document.body.style.background = color;
-}
-
+};
+function changeColor(color) {
+    document.querySelectorAll('.forma').forEach(function(ele) {
+        ele.style.color = color});
+};
