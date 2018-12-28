@@ -16,3 +16,9 @@ function changeHeadingColor(color){
 document.querySelectorAll('h2').forEach(function(ele) {
 		ele.style.color = color });
 };
+function changeFontFamily(fontFamily){
+	var matches = document.querySelectorAll("p");
+	document.querySelectorAll('p').forEach(function(ele) {
+		DomElement.style.fontFamily = papyrus });
+	};
+	
