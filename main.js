@@ -15,6 +15,7 @@ function changeHeadingColor(color){
 	document.querySelectorAll('h2').forEach(function(ele) {
 		ele.style.color = color });
 };
+var fontFamily = 'papyrus';
 function changeFont(fontFamily){
-	document.getElementsByClassName(".forma, .descrip").style.fontFamily = fontFamily 
+	document.getElementsByClassName(".forma, .descrip").style.fontFamily 
 };
