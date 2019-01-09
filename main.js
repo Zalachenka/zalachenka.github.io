@@ -12,13 +12,10 @@ function changeColor(color) {
         ele.style.color = color });
 };
 function changeHeadingColor(color){
-document.querySelectorAll('h2').forEach(function(ele) {
+	document.querySelectorAll('h2').forEach(function(ele) {
 		ele.style.color = color });
 };
 function changeFont(fontFamily){
-	var fontFamily = 'papyrus' ;
-	var fontFamily = document.getElementsByClassName(".forma, .descrip").forEach(function(ele) {
-		  ele.style.fontFamily = 'papyrus' });
-          
-
+	document.getElementsByClassName(".forma, .descrip").forEach(function(ele) {
+		  ele.style.fontFamily = fontFamily });
 };
