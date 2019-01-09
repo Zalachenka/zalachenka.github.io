@@ -16,6 +16,5 @@ function changeHeadingColor(color){
 		ele.style.color = color });
 };
 function changeFont(fontFamily){
-	document.getElementsByClassName(".forma, .descrip").forEach(function(ele) {
-		  ele.style.fontFamily = fontFamily });
+	document.getElementsByClassName(".forma, .descrip").style.fontFamily = fontFamily 
 };
