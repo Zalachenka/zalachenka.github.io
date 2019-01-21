@@ -8,7 +8,7 @@ window.confirm("Wanna get laid ?");
    document.body.style.background = color;
 };
 function changeColor(color) {
-    document.querySelectorAll('.forma, .descrip').forEach(function(ele) {
+    document.querySelectorAll('forma, descrip').forEach(function(ele) {
         ele.style.color = color });
 };
 function changeHeadingColor(color){
@@ -17,5 +17,8 @@ function changeHeadingColor(color){
 };
 var fontFamily = 'papyrus';
 function changeFont(fontFamily){
-	document.getElementsByClassName(".forma, .descrip").style.fontFamily 
+	document.querySelectorAll('forma, descrip').forEach(function(ele) {
+		ele.style.fontFamily = fontFamily
+	});
+
 };
