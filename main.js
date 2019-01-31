@@ -15,3 +15,8 @@ function changeHeadingColor(color){
 	document.querySelectorAll('h2').forEach(function(ele) {
 		ele.style.color = color });
 };
+function changeFont(fontFamily){
+	document.querySelectorAll('p').forEach(function(ele) {
+		ele.style.fontFamily = fontFamily
+	})
+};
