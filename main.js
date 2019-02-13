@@ -24,4 +24,4 @@ function changeFont(fontFamily){
 	})
 } else {
     //run function2
-}
+};
