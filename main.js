@@ -23,5 +23,5 @@ function changeFont(fontFamily){
 		ele.style.fontFamily = fontFamily
 	})
 } else {
-    //run function2
+
 };
