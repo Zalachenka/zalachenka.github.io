@@ -4,9 +4,6 @@ window.confirm("Wanna get laid ?");
    } else {
    txt = "Smart move!";
 };
-jQuery('.psychemode').click(function(){
-  $(this).data('clicked', true);
-  if(jQuery('.psychemode').data('clicked')) {
     function chBackcolor(color) {
    document.body.style.background = color;
 };
@@ -22,6 +19,4 @@ function changeFont(fontFamily){
 	document.querySelectorAll('p').forEach(function(ele) {
 		ele.style.fontFamily = fontFamily
 	})
-} else {
-
 };
