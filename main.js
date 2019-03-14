@@ -18,5 +18,5 @@ function changeHeadingColor(color){
 function changeFont(fontFamily){
 	document.querySelectorAll('p').forEach(function(ele) {
 		ele.style.fontFamily = fontFamily
-	})
+	});
 };
