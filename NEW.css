@@ -74,11 +74,17 @@ a:hover
 }
 .psychemode
 {
-	font-family: @font-face {font-family: "Papyrus V1";
+/*	font-family: @font-face {font-family: "Papyrus V1"; */
   src: url("ffea4728b1a325151a1c589e20a992f0.eot"); /* IE9*/
   src: url("ffea4728b1a325151a1c589e20a992f0.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
   url("ffea4728b1a325151a1c589e20a992f0.woff2") format("woff2"), /* chrome、firefox */
   url("ffea4728b1a325151a1c589e20a992f0.woff") format("woff"), /* chrome、firefox */
   url("ffea4728b1a325151a1c589e20a992f0.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
   url("ffea4728b1a325151a1c589e20a992f0.svg#Papyrus V1") format("svg"); /* iOS 4.1- */
+}
+
+@font-face
+{
+	font-family: 'papyrus';
+	src: url("papyrus/PAPYRUS.TTF");
 }
