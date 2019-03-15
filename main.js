@@ -17,6 +17,9 @@ function changeHeadingColor(color){
 };
 function changeFont(fontFamily){
 	document.querySelectorAll('p').forEach(function(ele) {
-		ele.style.fontFamily = fontFamily
-	});
+		ele.style.fontFamily = fontFamily });
+};
+function changeHeadingFont(fontFamily){
+	document.querySelectorAll('h1, h2').forEach(function(ele) {
+		ele.style.fontFamily = fontFamily });
 };

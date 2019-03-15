@@ -77,3 +77,8 @@ a:hover
 	font-family: 'papyrus';
 	src: url("papyrus/PAPYRUS.TTF");
 }
+@font-face
+{
+	font-family: 'Comic Sans';
+	src: url("comicsans/COMIC.TTF");
+}
