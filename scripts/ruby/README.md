@@ -1,2 +1,0 @@
-# ruby
-RUBY for THP
