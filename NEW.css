@@ -75,7 +75,7 @@ a:hover
 @font-face
 {
 	font-family: 'papyrus';
-	src: url("home/wasp/zalachenka.github.io/papyrus/PAPYRUS.TTF");
+	src: url("/papyrus/PAPYRUS.TTF");
 }
 @font-face
 {
