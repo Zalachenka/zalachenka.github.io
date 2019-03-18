@@ -1,3 +1,4 @@
-puts "Bonjour, quel âge as-tu ?"
-age = gets.chomp
-puts "Donc en 2017, tu avais : #{age - 2}"
+puts "Bonjour, quelle est ton année de naissance ?"
+year = gets.to_i
+age = "#{2019 - year}"
+puts "Donc en 2017, tu avais : #{ age - 2 }
