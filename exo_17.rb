@@ -4,4 +4,7 @@ i = born
 n = 2019 - i
 n.times do |i|
 	puts "Il y a #{n=n-1} ans, tu avais #{i} ans."
+		if  n == i
+			puts "Il y a #{n} ans, tu avais la moitié de l'âge que tu as aujourd'hui"
+		end
 end
