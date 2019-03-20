@@ -3,6 +3,6 @@
     name = jean.dupont
     provider = [email.fr]
    end
-    50.times do |i|
-    	puts "jean.dupont#{i+1}@email.fr"
+    25.times do |i|
+    	puts "jean.dupont#{2*i+2}@email.fr"
 end
