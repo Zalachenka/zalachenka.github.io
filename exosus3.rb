@@ -1,0 +1,1 @@
+nbr = gets.to_i ==> return -i end
