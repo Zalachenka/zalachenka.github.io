@@ -1,1 +1,1 @@
-nbr = gets.to_i ==> return -i end
+puts 0 - gets.to_i
